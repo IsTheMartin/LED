@@ -16,4 +16,4 @@ Práctica básica de Arduino donde se enciende y apaga LEDs
 
 ## Esquemático
 
-![Alt text](relative/path/to/LED.png?raw=true "Title")
+![Diagrama esquemático](LED.png?raw=true "Title")
